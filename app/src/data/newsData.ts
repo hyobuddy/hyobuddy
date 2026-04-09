@@ -20,9 +20,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-1.webp",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -39,9 +37,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-2.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -58,9 +54,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-3.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -77,9 +71,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-4.webp",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -96,9 +88,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-5.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -115,9 +105,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-6.png",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "analysis"
     },
@@ -134,9 +122,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-7.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -153,9 +139,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-8.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -172,9 +156,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-9.webp",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "analysis"
     },
@@ -191,9 +173,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-10.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "analysis"
     },
@@ -210,9 +190,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-11.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "analysis"
     },
@@ -229,9 +207,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-12.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -248,9 +224,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-13.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -267,9 +241,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-14.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -286,9 +258,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-15.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -305,9 +275,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-16.heif",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -324,9 +292,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-17.webp",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "analysis"
     },
@@ -343,9 +309,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-18.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -362,9 +326,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-19.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -381,9 +343,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-20.webp",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -400,9 +360,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-21.png",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "analysis"
     },
@@ -419,9 +377,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-22.png",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "analysis"
     },
@@ -438,9 +394,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-23.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "analysis"
     },
@@ -457,9 +411,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-24.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -476,9 +428,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-25.webp",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -495,9 +445,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-26.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -514,9 +462,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-27.png",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -533,9 +479,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-28.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -552,9 +496,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-29.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -571,9 +513,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-30.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "analysis"
     },
@@ -590,9 +530,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-31.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "analysis"
     },
@@ -609,9 +547,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-32.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -628,9 +564,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-33.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "analysis"
     },
@@ -647,9 +581,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-34.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -666,9 +598,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-35.webp",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -685,9 +615,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-36.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -704,9 +632,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-37.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -723,9 +649,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-38.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -742,9 +666,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-39.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -761,9 +683,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-40.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -780,9 +700,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-41.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -799,9 +717,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-42.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -818,9 +734,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-43.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -837,9 +751,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-44.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -856,9 +768,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-45.jpg",
         "readTime":  "5 min",
         "impact":  "low",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -875,9 +785,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-46.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -894,9 +802,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-47.heif",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "analysis"
     },
@@ -913,9 +819,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-48.jpg",
         "readTime":  "5 min",
         "impact":  "low",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -932,9 +836,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-49.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -951,9 +853,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-50.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -970,9 +870,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-51.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -989,9 +887,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-52.png",
         "readTime":  "5 min",
         "impact":  "high",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -1008,9 +904,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-53.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -1027,9 +921,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-54.webp",
         "readTime":  "5 min",
         "impact":  "low",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -1046,9 +938,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-55.png",
         "readTime":  "5 min",
         "impact":  "high",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "analysis"
     },
@@ -1065,9 +955,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-56.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -1084,9 +972,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-57.jpg",
         "readTime":  "5 min",
         "impact":  "low",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -1103,9 +989,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-58.jpg",
         "readTime":  "5 min",
         "impact":  "high",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -1122,9 +1006,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-59.jpg",
         "readTime":  "5 min",
         "impact":  "high",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -1141,9 +1023,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-60.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "analysis"
     },
@@ -1160,9 +1040,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-61.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -1179,9 +1057,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-62.png",
         "readTime":  "5 min",
         "impact":  "high",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -1198,9 +1074,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-63.jpg",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     },
@@ -1217,9 +1091,7 @@ export const newsArticles: NewsArticle[] = [
         "image":  "/images/sanity-imported/sanity-img-64.webp",
         "readTime":  "5 min",
         "impact":  "medium",
-        "tags":  {
-
-                 },
+        "tags": [],
         "isArchived":  false,
         "articleType":  "news"
     }
